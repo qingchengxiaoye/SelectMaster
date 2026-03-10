@@ -1,0 +1,31 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Rider / JetBrains
+.idea/
+*.iml
+
+# Logs and local config (optional: remove if you want to track config.json)
+logs/
+*.log
+
+# Build output
+build_output.txt
+
+# NuGet
+packages/
+*.nupkg
+project.lock.json
+
+# PDB
+*.pdb

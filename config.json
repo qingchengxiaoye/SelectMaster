@@ -1,0 +1,26 @@
+[
+  {
+    "Id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+    "Priority": 1,
+    "Url": "http://192.168.2.1:8060/dc-server-airun/actuator/info",
+    "BatFilePath": "D:\\1.bat",
+    "Timeout": 5000,
+    "Enabled": true
+  },
+  {
+    "Id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
+    "Priority": 2,
+    "Url": "http://192.168.2.2:8060/dc-server-airun/actuator/info",
+    "BatFilePath": "D:\\2.bat",
+    "Timeout": 5000,
+    "Enabled": true
+  },
+  {
+    "Id": "c3d4e5f6-a7b8-9012-cdef-123456789012",
+    "Priority": 3,
+    "Url": "http://192.168.2.3:8060/dc-server-airun/actuator/info",
+    "BatFilePath": "D:\\3.bat",
+    "Timeout": 5000,
+    "Enabled": true
+  }
+]
